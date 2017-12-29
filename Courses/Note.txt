@@ -1,0 +1,3 @@
+Minimiser x-y par rapport a 1<=x ^ x<= 3 ^ 0<=7 ^ 2y-x<=3
+
+
